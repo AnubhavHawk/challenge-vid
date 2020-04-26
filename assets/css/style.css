@@ -1,0 +1,49 @@
+.navbar-height
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+body, html
+{
+	/*font-family: tahoma;*/
+	overflow-x: hidden!important;
+}
+.theme-text-y
+{
+	color:#faed26;
+}
+.theme-bg-y
+{
+	background-color: #fbf59f;
+}
+.theme-bg-r
+{
+	background-color: #eab0aa;
+}
+.theme-text-r
+{
+	color:#ff3b3f;
+}
+.extra-light-bg
+{
+	background: #efefef!important;
+}
+/*----------css for home page starts ----------*/
+.issue-form
+{
+	width: 30%!important;
+	margin: auto;
+	position: relative;
+	top: 15vh;
+	z-index: 5;
+}
+@media only screen and (max-width: 768px) {
+  .issue-form {
+    width: 90%!important;
+  }
+}
+/*----------css for home page starts ----------*/
+
+/*---------- CSS for issue page starts ---------------*/
+
+/*---------- CSS for issue page ends ---------------*/
